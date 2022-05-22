@@ -1,0 +1,98 @@
+.navBar , .navBar-logoBox , .navBar-pageRef, .navBar-buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    cursor: context-menu;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.navBar{
+    width: 977px;
+    height: 51px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.navBar-logoBox{
+    width: 159px;
+    height: 34px;
+    margin-left:15px;
+}
+
+.navBar-logoBox-img{
+    width: 34px;
+    height: 34px;
+    cursor: pointer;
+}
+
+.navBar-logoBox-txt{
+    width: 113px;
+    height: 29px;
+
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 29px;
+
+
+    color: rgba(217, 19, 27, 0.9);
+
+    text-shadow: 2px 2px 100px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+
+.navBar-pageRef{
+    width: 356px;
+    height: 21px;
+}
+
+.navBar-pageRef-Home , .navBar-pageRef-Clan, .navBar-pageRef-Events , .navBar-pageRef-AboutUs{
+
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 21px;
+
+    color: #000000;
+
+    transition-duration: 0.4s;
+    text-shadow: 2px 2px 100px rgba(0, 0, 0, 0.25);
+}
+
+.navBar-buttons{
+    width: 265px;
+    height: 33px;
+}
+
+.navBar-buttons-Login, .navBar-buttons-JoinUs{
+    align-items: center;
+    width: 125px;
+    height: 33px;
+
+    font-family: 'Poppins' ,  sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 23px;
+    color: #FFFFFF;
+    transition-duration: 0.4s;
+
+    background: rgba(237, 66, 66, 0.911);
+    box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.13);
+    border-radius: 35px;
+    border: none;
+
+}
+
+.clickable:hover{
+    background: rgb(244, 46, 46);
+    transform: scale(1.1);
+}
+
+.click:hover{
+    transform: scale(1.3);
+}

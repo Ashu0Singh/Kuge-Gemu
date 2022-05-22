@@ -1,0 +1,116 @@
+
+.homepageContainer{
+    padding-top: 15px;
+    background-size: 100%;
+    height: 100%;
+    background-image: url(../../images/Homepage/samurai.jpg);
+    font-family: 'Poppins' ,sans-serif;
+    font-style: normal;
+    -ms-overflow-style: none;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.homepage{
+    padding-left: 125px;
+    width: 1200px;
+    height: 750px;
+    margin-left: auto;
+    margin-right:auto;
+}
+.homepage-heroText {
+    width: 311px;
+    height: 143px;
+    margin-top: 63px;
+}
+
+.homepage-heroText-small{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.3em;
+    color: #262222;
+    text-shadow: 1.4px 1.4px 34.5px rgba(0, 0, 0, 0.25);
+}
+
+.homepage-heroText-big{
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 44px;
+    letter-spacing: 0.02em;
+    color: #000000;
+    text-shadow: 1.4px 1.4px 20.8px rgba(0, 0, 0, 0.34);
+}
+
+.homepage-chessBois{
+    position: absolute;
+    width: 552.08px;
+    height: 307.1px;
+    margin-left: 510px;
+    mix-blend-mode: normal;
+}
+
+.homepage-desc{
+    width: 662.62px;
+    height: 354.71px;
+    margin-top: 180px;
+    margin-left: 400px;
+}
+
+.homepage-desc-controller{
+    position: absolute;
+    width: 179px;
+    height: 155px;
+    margin-top: 44px;
+    margin-left: 10px;
+}
+
+.homepage-desc-textArea{
+    width: 551.39px;
+    height: 354.71px;
+    margin-left: 111.23px;
+    background-color: #df7373;
+    padding: 50px 90px;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.homepage-desc-textArea-text{
+    width: 372.66px;
+    height: 169.77px;
+
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 23px;
+
+    color: #000000;
+
+    text-shadow: 1.4px 1.4px 41.4px rgba(0, 0, 0, 0.25);
+}
+
+.homepage-desc-textArea-socials{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 334px;
+    height: 44px;
+    
+}
+
+.social{
+    margin-top: 30px;
+    width: 44px;
+    height: 44px;
+    transition-duration: 0.5s;
+}
+
+.social:hover{
+    transform: scale(1.2);
+}
+

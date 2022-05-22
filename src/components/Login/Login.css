@@ -1,0 +1,59 @@
+
+.form-container {
+    height: 100vh;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../../images/Login/4.jpg);
+    font-family: 'Poppins', sans-serif;
+    background-size: 100%;
+
+
+}
+
+.form {
+    padding: 50px 50px 30px 50px;
+    border-radius: 11px;
+    display: flex;
+    width:317px;
+    flex-direction: column;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.69);
+    box-shadow: 2px 2px 20px rgba(125, 124, 124, 0.77);
+
+}
+
+.form--input {
+    margin-bottom: 10px;
+    height: 49px;
+    border-radius: 6px;
+    padding: 18px;
+    font-family: 'Poppins', sans-serif;
+    width: 238px;
+    font-size: 15px;
+
+    color : black;
+    background-color: white;
+}
+
+.form--submit {
+    width: 50%;
+    padding: 10px;
+    border-radius: 28px;
+    color: white;
+    background-color:#E35B5B;
+    border: none;   
+    cursor: pointer;
+    margin-top: 5px;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.error{
+    margin-top: 10px;
+    color : red;
+    font-size: 15px;
+    font-style: italic;
+}
