@@ -1,6 +1,6 @@
 {
   "name": "kuge-gemu",
-  "homepage": "https://Ashu0Singh.github.io/Kuge-Gemu",
+  "homepage": "https://ashu0singh.github.io/Kuge-Gemu/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy" : "gh-pages -d build",
+    "deploy" : "gh-page -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
