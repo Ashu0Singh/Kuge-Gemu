@@ -5,12 +5,10 @@ import Card from "./Card";
 export default function ClanPage(){
     return (
         <>
-
             <div className='clan'>
                 <NavBar />
                 <Card />
             </div>
-
         </>
     )
 }

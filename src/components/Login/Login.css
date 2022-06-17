@@ -6,7 +6,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(../../images/Login/4.jpg);
     font-family: 'Poppins', sans-serif;
     background-size: 100%;
 
@@ -17,7 +16,8 @@
     padding: 50px 50px 30px 50px;
     border-radius: 11px;
     display: flex;
-    width:317px;
+    height: 80%;
+    width:70%;
     flex-direction: column;
     align-items: center;
     background: rgba(255, 255, 255, 0.69);
