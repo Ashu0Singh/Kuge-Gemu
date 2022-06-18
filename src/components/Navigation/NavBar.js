@@ -11,21 +11,21 @@ export default function NavBar(){
                 <div className='navBar-logoBox-txt'>KugeGemu</div>
             </div>
             <div className='navBar-pageRef'>
-                <Link className='link' to="/">
+                <Link className='link' to="/Kuge-Gemu/">
                     <div className='navBar-pageRef-Home click'>Home</div>
                 </Link>
 
-                <Link className='link' to="/clan">
+                <Link className='link' to="/Kuge-Gemu/clan">
                     <div className='navBar-pageRef-Clan click'>Clan</div>
                 </Link>
                 <div className='navBar-pageRef-Events click'>Events</div>
                 <div className='navBar-pageRef-AboutUs click'>About Us</div>
             </div>
             <div className='navBar-buttons'>
-                <Link className='Link' to='/login'>
+                <Link className='Link' to='/Kuge-Gemu/login'>
                     <button className='navBar-buttons-Login clickable' type='button'>Login</button>
                 </Link>
-                <Link className='Link' to='/signUp'>
+                <Link className='Link' to='/Kuge-Gemu/signUp'>
                     <button className='navBar-buttons-JoinUs clickable' type='button'>Join Us</button>
                 </Link>
 

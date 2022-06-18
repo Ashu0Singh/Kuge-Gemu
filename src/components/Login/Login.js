@@ -1,5 +1,6 @@
 import React from 'react'
 import './Login.css'
+import NavBar from '../Navigation/NavBar';
 
 export default function Login({signUp}) {
     const [formData, setFormData] = React.useState({
@@ -22,6 +23,8 @@ export default function Login({signUp}) {
     }
     
     return (
+        <>
+        <NavBar />
         <div className="form-container">
             <form className="form" onSubmit={handleSubmit}>
                 {signUp && <input
@@ -62,5 +65,6 @@ export default function Login({signUp}) {
                 <span className='error'></span>
             </form>
         </div>
+        </>
     )
 }
