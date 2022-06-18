@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Kuge-Gemu/static/css/main.e5b35814.css",
+    "main.css": "/Kuge-Gemu/static/css/main.d144f3a7.css",
     "main.js": "/Kuge-Gemu/static/js/main.8346f9fa.js",
     "static/media/Background.png": "/Kuge-Gemu/static/media/Background.104e08b968220cb5afe1.png",
     "static/media/KugeGemuLogo.png": "/Kuge-Gemu/static/media/KugeGemuLogo.c266ee7ef39844c57f01.png",
@@ -18,11 +18,11 @@
     "static/media/youtube.png": "/Kuge-Gemu/static/media/youtube.b4f2b64af1b614ce26dc.png",
     "static/media/Kenj.jpeg": "/Kuge-Gemu/static/media/Kenj.aa3f4225b6e3c8cc5ec6.jpeg",
     "index.html": "/Kuge-Gemu/index.html",
-    "main.e5b35814.css.map": "/Kuge-Gemu/static/css/main.e5b35814.css.map",
+    "main.d144f3a7.css.map": "/Kuge-Gemu/static/css/main.d144f3a7.css.map",
     "main.8346f9fa.js.map": "/Kuge-Gemu/static/js/main.8346f9fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5b35814.css",
+    "static/css/main.d144f3a7.css",
     "static/js/main.8346f9fa.js"
   ]
 }
