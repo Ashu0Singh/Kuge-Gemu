@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Kuge-Gemu/static/css/main.e5b35814.css",
+    "main.js": "/Kuge-Gemu/static/js/main.8346f9fa.js",
+    "static/media/Background.png": "/Kuge-Gemu/static/media/Background.104e08b968220cb5afe1.png",
+    "static/media/KugeGemuLogo.png": "/Kuge-Gemu/static/media/KugeGemuLogo.c266ee7ef39844c57f01.png",
+    "static/media/chessBois.svg": "/Kuge-Gemu/static/media/chessBois.b34630dd059955ac125f92f452ada0ea.svg",
+    "static/media/samurai.jpg": "/Kuge-Gemu/static/media/samurai.b5caaea055c114038202.jpg",
+    "static/media/instagram.png": "/Kuge-Gemu/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/discord.png": "/Kuge-Gemu/static/media/discord.87103b7fb8f04ea4d3ef.png",
+    "static/media/twitter.png": "/Kuge-Gemu/static/media/twitter.570a83358b62aadac17a.png",
+    "static/media/Controller.png": "/Kuge-Gemu/static/media/Controller.2f9762de429692ad9c89.png",
+    "static/media/linkedin.png": "/Kuge-Gemu/static/media/linkedin.1dd143a731afb245bf24.png",
+    "static/media/Sojutsu.png": "/Kuge-Gemu/static/media/Sojutsu.1554d8532e8bfbfc1a96.png",
+    "static/media/Kyujutsu.png": "/Kuge-Gemu/static/media/Kyujutsu.91263fdd703ecace689a.png",
+    "static/media/Kenjutsu.png": "/Kuge-Gemu/static/media/Kenjutsu.bdca08114070b539c75a.png",
+    "static/media/Bojutsu.jpeg": "/Kuge-Gemu/static/media/Bojutsu.e1a35d3869a55019bede.jpeg",
+    "static/media/youtube.png": "/Kuge-Gemu/static/media/youtube.b4f2b64af1b614ce26dc.png",
+    "static/media/Kenj.jpeg": "/Kuge-Gemu/static/media/Kenj.aa3f4225b6e3c8cc5ec6.jpeg",
+    "index.html": "/Kuge-Gemu/index.html",
+    "main.e5b35814.css.map": "/Kuge-Gemu/static/css/main.e5b35814.css.map",
+    "main.8346f9fa.js.map": "/Kuge-Gemu/static/js/main.8346f9fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5b35814.css",
+    "static/js/main.8346f9fa.js"
+  ]
+}
